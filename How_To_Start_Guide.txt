@@ -1,0 +1,6 @@
+Steps to Run Chess App on your System
+1. Decompress the app folder
+2. Open the folder in terminal after right clicking and selecting "Open Terminal".
+3. Run this Command: npm install -g serve
+4. After that run this command: serve -s
+5. Copy the Local Address and run it on web browser (Looks something like this: http://localhost:3000)
